@@ -12,3 +12,8 @@ Technologies Used:
 HTML5 for structuring the web page.
 CSS3 with SASS for advanced and organized styling.
 JavaScript for interactive elements.
+
+
+
+https://github.com/shahid704/Easybank-landing-page/assets/68416468/c17bef5a-2ae4-4854-ae0a-7957ae120d54
+
