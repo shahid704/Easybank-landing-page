@@ -15,5 +15,7 @@ JavaScript for interactive elements.
 
 
 
-https://github.com/shahid704/Easybank-landing-page/assets/68416468/c17bef5a-2ae4-4854-ae0a-7957ae120d54
 
+![Capture](https://github.com/shahid704/Easybank-landing-page/assets/68416468/c47e7b4b-80a2-4d41-9cb3-f49bfdf6cb27)
+![Capture1](https://github.com/shahid704/Easybank-landing-page/assets/68416468/2ed64564-7e6d-4487-9c98-ce9f91637917)
+![Capture2](https://github.com/shahid704/Easybank-landing-page/assets/68416468/ab041588-8ca9-4b7e-ac6a-3c969c3a47e2)
