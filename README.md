@@ -1,6 +1,8 @@
 # Easybank landing page
  The "Easybank Landing Page" is a modern and responsive website created with HTML, CSS, JavaScript, and SASS. It is a replica of the Easybank landing page, showcasing the implementation of cutting-edge front-end technologies.
 
+Live Site: https://easy-bank-landingpage.web.app/
+
 Key Features:
 Eye-catching and intuitive design for a seamless user experience.
 Mobile-first approach ensuring optimal performance on all devices.
